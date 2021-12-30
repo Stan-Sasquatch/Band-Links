@@ -5,7 +5,7 @@
 		"lastName": "Plant",
 		"shortBio": "placeholder short bio Robert Plant",
 		"longBio": "placeholder long bio Robert Plant",
-		"instrument": "Vocals",
+		"instrument": "Vocalist",
 		"knownFor": "Led Zeppelin",
 		"linkedArtists": [2, 3]
 	},
@@ -17,7 +17,7 @@
 		"shortBio": "placeholder short bio Jeff Beck",
 		"longBio": "placeholder long bio Jeff Beck",
 		"instrument": "Guitarist",
-		"knownFor": "Solo Musician",
+		"knownFor": "The Yardbirds",
 		"linkedArtists": [1, 3]
 	},
 	{
