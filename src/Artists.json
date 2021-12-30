@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"firstName": "Robert",
+		"lastName": "Plant",
+		"shortBio": "placeholder short bio Robert Plant",
+		"longBio": "placeholder long bio Robert Plant",
+		"instrument": "Vocals",
+		"knownFor": "Led Zeppelin",
+		"linkedArtists": [2, 3]
+	},
+
+	{
+		"id": 2,
+		"firstName": "Jeff",
+		"lastName": "Beck",
+		"shortBio": "placeholder short bio Jeff Beck",
+		"longBio": "placeholder long bio Jeff Beck",
+		"instrument": "Guitarist",
+		"knownFor": "Solo Musician",
+		"linkedArtists": [1, 3]
+	},
+	{
+		"id": 3,
+		"firstName": "Jimmy",
+		"lastName": "Page",
+		"shortBio": "placeholder short bio Jimmy Page",
+		"longBio": "placeholder long bio Jimmy Page",
+		"instrument": "Guitarist",
+		"knownFor": "Led Zeppelin",
+		"linkedArtists": [1, 2, 4]
+	},
+
+	{
+		"id": 4,
+		"firstName": "Jack",
+		"lastName": "White",
+		"shortBio": "placeholder short bio Jack White",
+		"longBio": "placeholder long bio Jack White",
+		"instrument": "Guitarist",
+		"knownFor": "The White Stripes",
+		"linkedArtists": [3]
+	}
+]
